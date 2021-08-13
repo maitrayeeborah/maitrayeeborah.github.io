@@ -2153,7 +2153,7 @@ Widgets
 	padding-bottom: 15px;
 }
 .widget_tag_cloud a {
-	display: inline-block;
+	display: block;
 	float: left;
 	padding: 5px 10px !important;
 	margin: 0 5px 5px 0 !important;
