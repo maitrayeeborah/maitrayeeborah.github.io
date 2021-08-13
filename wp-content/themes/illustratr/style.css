@@ -57,6 +57,9 @@ html {
 	html {
 		font-size: 1.125em;
 	}
+	.menu-toggle img {
+		    margin-top: 10px;
+}
 }
 
 *,
