@@ -12,8 +12,8 @@
 
 <channel>
 	<title></title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="http://https://maitrayeeborah.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://maitrayeeborah.github.io</link>
 	<description>Hi! I&#039;m Maitrayee Borah</description>
 	<lastBuildDate>Thu, 12 Aug 2021 18:58:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,28 +24,28 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>./../wp-content/uploads/2021/08/logo-1.jpeg</url>
+	<url>http://https://maitrayeeborah.github.io/wp-content/uploads/2021/08/logo-1.jpeg</url>
 	<title></title>
-	<link>./../index.html</link>
+	<link>http://https://maitrayeeborah.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>./../uncategorized/index.html</link>
-					<comments>./../uncategorized/index.html#comments</comments>
+		<link>http://https://maitrayeeborah.github.io/uncategorized/</link>
+					<comments>http://https://maitrayeeborah.github.io/uncategorized/#comments</comments>
 		
 		<dc:creator><![CDATA[Ajay]]></dc:creator>
 		<pubDate>Thu, 12 Aug 2021 18:58:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../index.html?p=1</guid>
+		<guid isPermaLink="false">http://https://maitrayeeborah.github.io/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../uncategorized/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://https://maitrayeeborah.github.io/uncategorized/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
