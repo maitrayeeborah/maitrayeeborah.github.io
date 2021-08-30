@@ -73,6 +73,8 @@
         "Flash",
         "Macromedia Director",
         "Microsoft Office",
+        "Motion Graphics",
+        "Adobe Creative Suite"
     ];
     let bg_color = [
         "#f95d0b",

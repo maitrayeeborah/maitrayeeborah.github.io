@@ -5,7 +5,7 @@
     $(".navbar").headroom();
 
     // list all the images
-    for (let i = 1; i <= 31; i++) {
+    for (let i = 1; i <= 43; i++) {
         var $div = $("<div>", { class: "card drawing-card", id: i + ".jpg" });
         var $img = $("<img>", {
             class: "card-img-top image",

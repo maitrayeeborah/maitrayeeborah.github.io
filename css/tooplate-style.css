@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-    color: #8e3db0 !important;
+    color: #cf5cff !important;
 }
 
 p {
@@ -132,7 +132,7 @@ strong {
 }
 
 .custom-btn.custom-btn-bg:hover {
-    background: #8e3db0;
+    background: #cf5cff;
     color: #ffffff !important;
 }
 
@@ -177,7 +177,7 @@ GO TO TOP
     width: 60px;
     border: none;
     outline: none;
-    background-color: #8e3db0;
+    background-color: #cf5cff;
     color: rgb(0, 0, 0);
     cursor: pointer;
     padding: 7px;
@@ -235,7 +235,7 @@ SKILL
 
 .animated-item {
     text-align: left;
-    color: #8e3db0;
+    color: #cf5cff;
     font-size: 40px;
     line-height: inherit;
     display: block;
@@ -794,8 +794,8 @@ SKILL
 }
 
 .card-btn {
-    background-color: #8e3db0;
-    border-color: #8e3db0;
+    background-color: #cf5cff;
+    border-color: #cf5cff;
 }
 
 .card-btn:hover {

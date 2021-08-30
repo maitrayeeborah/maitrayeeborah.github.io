@@ -5,22 +5,24 @@
     $(".navbar").headroom();
 
     // list all the images
-    for (let i = 1; i <= 18; i++) {
-        var $div = $("<div>", { class: "card photo-card", id: i + ".jpg" });
-        var $img = $("<img>", {
-            class: "card-img-top image",
-            src: "../images/photography/" + i + ".jpg",
-        });
+    for (let i = 1; i <= 114; i++) {
+        if (i != 48 && i != 58) {
+            var $div = $("<div>", { class: "card photo-card", id: i + ".jpg" });
+            var $img = $("<img>", {
+                class: "card-img-top image",
+                src: "../images/photography/" + i + ".jpg",
+            });
 
-        // image middle with text "Click to enlarge" during hover
-        var $middle = $("<div>", { class: "middle" });
-        var $middle_txt = $("<div>", { class: "text" });
-        $middle_txt.text("Click to enlarge");
-        $middle.append($middle_txt);
+            // image middle with text "Click to enlarge" during hover
+            var $middle = $("<div>", { class: "middle" });
+            var $middle_txt = $("<div>", { class: "text" });
+            $middle_txt.text("Click to enlarge");
+            $middle.append($middle_txt);
 
-        $div.append($img);
-        $div.append($middle);
-        $(".card-columns").append($div);
+            $div.append($img);
+            $div.append($middle);
+            $(".card-columns").append($div);
+        }
     }
 
     var id;
